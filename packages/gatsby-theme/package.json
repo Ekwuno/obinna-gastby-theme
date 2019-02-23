@@ -1,0 +1,17 @@
+{
+  "name": "my-gastby-theme",
+  "version": "1.0.0",
+  "description": "Learning to build a gastby theme",
+  "main": "index.js",
+  "license": "ISC",
+  "devDependencies": {
+    "gatsby": "^2.1.17",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "peerdependencies": {
+    "gatsby": "^2.1.17",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
