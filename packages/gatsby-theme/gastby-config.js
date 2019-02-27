@@ -2,14 +2,12 @@ module.exports = {
     plugins:[
        {
         resolve:'gatsby-mdx',
-        options :{
-            
-        }
+        options :{}
        },
        {
         resolve: `gatsby-plugin-page-creator`,
         options: {
-          path: `${__dirname}/src/src/pages`,
+          path: `${__dirname}/src/pages`,
         },
        }
 

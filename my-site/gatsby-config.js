@@ -1,3 +1,3 @@
 module.exports = {
-    __experimentalThemes:['gatsby-theme']
+    __experimentalThemes:["gatsby-theme"]
 };
